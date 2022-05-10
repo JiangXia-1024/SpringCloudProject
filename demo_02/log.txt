@@ -1,0 +1,15 @@
+1、log4j logback的日志说明
+springboot默认集成了logback日志
+
+2、日志分类：
+根日志：全局日志 rootlogger info
+子日志：包日志 logger.com.jiangxia.dao = debug
+
+3、日志级别
+高--低：off  error  warrning info debug all  级别越高输出的信息越少
+
+4、日志对象
+在类中定义对象
+Logger logger = logerfactory.getlogger(usercontroller.class)
+
+在方法中使用logger

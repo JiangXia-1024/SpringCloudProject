@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.jiangxia.demo02.dao.UserDao">
+    <!--findall-->
+    <select id="findAll" resultType="com.jiangxia.demo02.entity.User">
+        select id,email,password,username from user
+    </select>
+
+    <select id="findOne" resultType="com.jiangxia.demo02.entity.User">
+        select id,email,password,username from user where id=#{id}
+    </select>
+    <!--<insert id="save" parameterType="com.jiangxia.demo02.entity.User">-->
+        <!--insert into user(email,password,username) values (#{email},#{password},#{username})-->
+    <!--</insert>-->
+     <!--采用数据库自动生成（useGeneratedKeys="true"）并返回主键的值（ keyProperty="id"保存主键的属性名）-->
+    <insert id="save" parameterType="com.jiangxia.demo02.entity.User" useGeneratedKeys="true" keyProperty="id">
+        insert into user(email,password,username) values (#{email},#{password},#{username})
+    </insert>
+</mapper>
