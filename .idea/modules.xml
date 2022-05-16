@@ -4,7 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/demo_01/demo_01.iml" filepath="$PROJECT_DIR$/demo_01/demo_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_02/demo_02.iml" filepath="$PROJECT_DIR$/demo_02/demo_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_parent/demo_commons/demo_commons.iml" filepath="$PROJECT_DIR$/demo_parent/demo_commons/demo_commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_parent/demo_model/demo_model.iml" filepath="$PROJECT_DIR$/demo_parent/demo_model/demo_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_parent/demo_parent.iml" filepath="$PROJECT_DIR$/demo_parent/demo_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_restful/demo_restful.iml" filepath="$PROJECT_DIR$/demo_restful/demo_restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_parent/demo_web/demo_web.iml" filepath="$PROJECT_DIR$/demo_parent/demo_web/demo_web.iml" />
     </modules>
   </component>
 </project>
