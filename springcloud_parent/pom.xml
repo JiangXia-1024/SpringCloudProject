@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.jiangxia</groupId>
+    <artifactId>springcloud_parent</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <!--继承springboot的父项目-->
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.2.5.RELEASE</version>
+    </parent>
+    <!--父项目不写代码，只维护依赖和版本-->
+    <!--自定义properties属性-->
+    <properties>
+        <!--具体的springcloud版本-->
+        <spring.cloud-version>Hoxton.SR6</spring.cloud-version>
+    </properties>
+
+    <!--维护版本-->
+    <dependencyManagement>
+        <dependencies>
+            <!--维护springcloud版本依赖-->
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>${spring.cloud-version}</version>
+                <!--父项目类型都是pom类型-->
+                <type>pom</type>
+                <!--当前项目也要导入一个父项目-->
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+
+    </dependencyManagement>
+</project>

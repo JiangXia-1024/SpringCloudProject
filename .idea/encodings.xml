@@ -8,5 +8,6 @@
     <file url="file://$PROJECT_DIR$/demo_parent/demo_model" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo_parent/demo_web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo_restful" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_parent" charset="UTF-8" />
   </component>
 </project>

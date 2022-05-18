@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/demo02/pom.xml" />
         <option value="$PROJECT_DIR$/demo_restful/pom.xml" />
         <option value="$PROJECT_DIR$/demo_parent/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_parent/pom.xml" />
       </list>
     </option>
   </component>

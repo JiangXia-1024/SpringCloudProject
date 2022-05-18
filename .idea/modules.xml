@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/demo_parent/demo_parent.iml" filepath="$PROJECT_DIR$/demo_parent/demo_parent.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_restful/demo_restful.iml" filepath="$PROJECT_DIR$/demo_restful/demo_restful.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_parent/demo_web/demo_web.iml" filepath="$PROJECT_DIR$/demo_parent/demo_web/demo_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud_parent.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud_parent.iml" />
     </modules>
   </component>
 </project>

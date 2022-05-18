@@ -13,6 +13,7 @@
         <module name="demo_model" />
         <module name="demo_restful" />
         <module name="demo_web" />
+        <module name="springcloud_parent" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -23,6 +24,7 @@
       <module name="demo_parent" target="1.8" />
       <module name="demo_restful" target="1.8" />
       <module name="demo_web" target="1.8" />
+      <module name="springcloud_parent" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -34,6 +36,7 @@
       <module name="demo_parent" options="-parameters" />
       <module name="demo_restful" options="-parameters" />
       <module name="demo_web" options="-parameters" />
+      <module name="springcloud_parent" options="-parameters" />
     </option>
   </component>
 </project>
