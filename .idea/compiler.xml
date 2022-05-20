@@ -14,6 +14,7 @@
         <module name="demo_restful" />
         <module name="demo_web" />
         <module name="springcloud01_eureka_server" />
+        <module name="springcloud02_eureka_client" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -25,6 +26,7 @@
       <module name="demo_restful" target="1.8" />
       <module name="demo_web" target="1.8" />
       <module name="springcloud01_eureka_server" target="1.8" />
+      <module name="springcloud02_eureka_client" target="1.8" />
       <module name="springcloud_parent" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -38,6 +40,7 @@
       <module name="demo_restful" options="-parameters" />
       <module name="demo_web" options="-parameters" />
       <module name="springcloud01_eureka_server" options="-parameters" />
+      <module name="springcloud02_eureka_client" options="-parameters" />
       <module name="springcloud_parent" options="-parameters" />
     </option>
   </component>
