@@ -2,20 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe3d5d3b-8364-4280-aea2-ad4586c4acdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_2_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/springcloud02_eureka_client.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/src/main/java/com/jiangxia/SpringCloudEurekaClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_ecwid_consul_consul_api_1_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_consul_core_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_consul_discovery_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_consul_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_consul_discovery_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/springcloud03_consul_client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/src/main/java/com/jiangxia/ConsulClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springcloud_parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_parent/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/target/classes/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/demo_01/target/" />
     <ignored path="$PROJECT_DIR$/demo02/target/" />
@@ -28,6 +28,7 @@
     <ignored path="$PROJECT_DIR$/springcloud_parent/target/" />
     <ignored path="$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/target/" />
     <ignored path="$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,41 +73,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="33" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="66" lean-forward="true" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+            <state>
+              <caret selection-end-line="9" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.2.3.RELEASE/spring-cloud-netflix-eureka-server-2.2.3.RELEASE.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerConfigBean.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/springcloud03_consul_client.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/src/main/java/com/jiangxia/EurekaServerApplication.java">
+        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/src/main/java/com/jiangxia/ConsulClientApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="330">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -123,8 +120,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.2.3.RELEASE/spring-cloud-netflix-eureka-client-2.2.3.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EurekaInstanceConfigBean.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="38" column="30" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="38" selection-end-column="30" />
+            <state relative-caret-position="484">
+              <caret line="38" column="30" selection-start-line="36" selection-start-column="16" selection-end-line="38" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -132,7 +129,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/src/main/java/com/jiangxia/SpringCloudEurekaClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="264">
               <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -232,6 +229,10 @@
         <option value="$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/src/main/java/com/jiangxia/ConsuleClientApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/src/main/java/com/jiangxia/ConsulClientApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -254,18 +255,12 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springcloud01_eureka_server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="springcloud03_consul_client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springcloud01_eureka_server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="springcloud03_consul_client" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springcloud01_eureka_server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.boot:spring-boot-starter-web:2.2.5.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
         </path>
       </expand>
       <select />
@@ -275,7 +270,7 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="925" />
     <option name="y" value="35" />
     <option name="width" value="1066" />
@@ -289,8 +284,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -301,78 +296,25 @@
             <path>
               <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud01_eureka_server" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud03_consule_client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud01_eureka_server" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud03_consule_client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud01_eureka_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud01_eureka_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud01_eureka_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud01_eureka_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiangxia" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud01_eureka_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud02_eureka_client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud02_eureka_client" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud02_eureka_client" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud03_consule_client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud02_eureka_client" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud03_consule_client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -380,7 +322,7 @@
             <path>
               <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud02_eureka_client" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud03_consule_client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -389,7 +331,7 @@
             <path>
               <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud02_eureka_client" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud03_consule_client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -399,7 +341,7 @@
             <path>
               <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud02_eureka_client" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud03_consule_client" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -420,7 +362,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1653051035142" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1653463942007" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -430,8 +372,10 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\workspace\java\SpringCloudProject\demo_restful\src\main\resources\com\jiangxia" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workspace\java\SpringCloudProject\springcloud_parent\springcloud03_consule_client\src\main\resources" />
+      <recent name="F:\workspace\java\SpringCloudProject\springcloud_parent\springcloud02_eureka_client\src\main\resources" />
+      <recent name="F:\workspace\java\SpringCloudProject\demo_02\src\main\webapp" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.jiangxia.web" />
@@ -439,9 +383,8 @@
       <recent name="dao" />
       <recent name="com.jiangxia.entity" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\workspace\java\SpringCloudProject\springcloud_parent\springcloud02_eureka_client\src\main\resources" />
-      <recent name="F:\workspace\java\SpringCloudProject\demo_02\src\main\webapp" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\workspace\java\SpringCloudProject\demo_restful\src\main\resources\com\jiangxia" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -456,7 +399,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringCloudEurekaClient">
+  <component name="RunManager" selected="Spring Boot.ConsulClientApplication">
     <configuration name="Demo02ApplicationTests.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="demo_02" />
       <extension name="coverage">
@@ -473,24 +416,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="demo_02" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jiangxia.demo02.Demo02Application" />
-      <option name="WORKING_DIRECTORY" value="file://$MODULE_WORKING_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
-      <module name="demo_01" />
+    <configuration name="ConsulClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud03_consul_client" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.jiangxia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jiangxia.Demo1Application" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jiangxia.ConsulClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsuleClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud03_consul_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiangxia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jiangxia.ConsuleClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo_02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jiangxia.demo02.Demo02Application" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_WORKING_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -534,16 +489,18 @@
       <item itemvalue="JUnit.Demo02ApplicationTests.testFindAll" />
       <item itemvalue="Spring Boot.Demo02Application" />
       <item itemvalue="Spring Boot.DemoRestfulApplication" />
-      <item itemvalue="Spring Boot.Demo1Application" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.SpringCloudEurekaClient" />
+      <item itemvalue="Spring Boot.ConsuleClientApplication" />
+      <item itemvalue="Spring Boot.ConsulClientApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ConsulClientApplication" />
+        <item itemvalue="Spring Boot.ConsuleClientApplication" />
         <item itemvalue="Spring Boot.SpringCloudEurekaClient" />
         <item itemvalue="Spring Boot.EurekaServerApplication" />
         <item itemvalue="JUnit.Demo02ApplicationTests.testFindAll" />
-        <item itemvalue="Spring Boot.Demo1Application" />
       </list>
     </recent_temporary>
   </component>
@@ -569,7 +526,10 @@
       <workItem from="1652680743515" duration="5155000" />
       <workItem from="1652859608999" duration="5627000" />
       <workItem from="1652936052408" duration="5603000" />
-      <workItem from="1653010427775" duration="5969000" />
+      <workItem from="1653010427775" duration="6565000" />
+      <workItem from="1653272834975" duration="595000" />
+      <workItem from="1653371703743" duration="2072000" />
+      <workItem from="1653458656382" duration="3228000" />
     </task>
     <servers />
   </component>
@@ -597,7 +557,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60819000" />
+    <option name="totallyTimeSpent" value="67310000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -609,10 +569,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6421725" visible="true" weight="0.10074627" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6421725" visible="true" weight="0.17324094" />
       <window_info id="Structure" order="1" sideWeight="0.35782748" side_tool="true" weight="0.21002132" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -622,7 +582,7 @@
       <window_info id="Web" order="7" sideWeight="0.35782748" side_tool="true" weight="0.21002132" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3264642" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35032538" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4251627" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4164859" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -652,42 +612,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo_01/src/main/java/com/jiangxia/Demo1Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#309#310#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo_01/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo_01/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo_01/src/main/java/com/jiangxia/controller/DemoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo_02/mvnw.cmd">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -958,6 +882,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.2.3.RELEASE/spring-cloud-netflix-eureka-server-2.2.3.RELEASE.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerConfigBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/src/main/java/com/jiangxia/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.2.3.RELEASE/spring-cloud-netflix-eureka-client-2.2.3.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EurekaInstanceConfigBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="38" column="30" selection-start-line="36" selection-start-column="16" selection-end-line="38" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/src/main/java/com/jiangxia/SpringCloudEurekaClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo_parent/demo_commons/src/main/java/com/jiangxia/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -979,58 +958,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/pom.xml">
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/springcloud03_consul_client.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="180">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="33" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/src/main/java/com/jiangxia/EurekaServerApplication.java">
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/src/main/java/com/jiangxia/ConsulClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="330">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/src/main/java/com/jiangxia/SpringCloudEurekaClient.java">
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.2.3.RELEASE/spring-cloud-netflix-eureka-client-2.2.3.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EurekaInstanceConfigBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="38" column="30" lean-forward="true" selection-start-line="36" selection-start-column="16" selection-end-line="38" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.2.3.RELEASE/spring-cloud-netflix-eureka-server-2.2.3.RELEASE.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerConfigBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="66" lean-forward="true" selection-start-line="5" selection-start-column="66" selection-end-line="5" selection-end-column="66" />
+        <state>
+          <caret selection-end-line="9" selection-end-column="57" />
         </state>
       </provider>
     </entry>

@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/demo_parent/demo_web/demo_web.iml" filepath="$PROJECT_DIR$/demo_parent/demo_web/demo_web.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/springcloud01_eureka_server.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/springcloud01_eureka_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/springcloud02_eureka_client.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/springcloud02_eureka_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/springcloud03_consul_client.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/springcloud03_consul_client.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud_parent.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud_parent.iml" />
     </modules>
   </component>
