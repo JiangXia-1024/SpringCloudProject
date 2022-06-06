@@ -11,7 +11,11 @@
       <module fileurl="file://$PROJECT_DIR$/demo_parent/demo_web/demo_web.iml" filepath="$PROJECT_DIR$/demo_parent/demo_web/demo_web.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/springcloud01_eureka_server.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/springcloud01_eureka_server.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/springcloud02_eureka_client.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/springcloud02_eureka_client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/springcloud03_consul_client.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud03_consule_client/springcloud03_consul_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud03_consul_client/springcloud03_consul_client.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud03_consul_client/springcloud03_consul_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud04_users/springcloud04_users.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud04_users/springcloud04_users.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud05_orders/springcloud05_orders.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud05_orders/springcloud05_orders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud06_customer/springcloud06_customer.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/springcloud06_customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud07_product/springcloud07_product.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud07_product/springcloud07_product.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud_parent.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud_parent.iml" />
     </modules>
   </component>

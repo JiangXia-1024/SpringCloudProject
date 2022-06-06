@@ -16,6 +16,10 @@
         <module name="springcloud01_eureka_server" />
         <module name="springcloud02_eureka_client" />
         <module name="springcloud03_consul_client" />
+        <module name="springcloud04_users" />
+        <module name="springcloud05_orders" />
+        <module name="springcloud06_customer" />
+        <module name="springcloud07_product" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,6 +33,10 @@
       <module name="springcloud01_eureka_server" target="1.8" />
       <module name="springcloud02_eureka_client" target="1.8" />
       <module name="springcloud03_consul_client" target="1.8" />
+      <module name="springcloud04_users" target="1.8" />
+      <module name="springcloud05_orders" target="1.8" />
+      <module name="springcloud06_customer" target="1.8" />
+      <module name="springcloud07_product" target="1.8" />
       <module name="springcloud_parent" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -44,6 +52,10 @@
       <module name="springcloud01_eureka_server" options="-parameters" />
       <module name="springcloud02_eureka_client" options="-parameters" />
       <module name="springcloud03_consul_client" options="-parameters" />
+      <module name="springcloud04_users" options="-parameters" />
+      <module name="springcloud05_orders" options="-parameters" />
+      <module name="springcloud06_customer" options="-parameters" />
+      <module name="springcloud07_product" options="-parameters" />
       <module name="springcloud_parent" options="-parameters" />
     </option>
   </component>

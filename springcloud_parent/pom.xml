@@ -11,7 +11,11 @@
     <modules>
         <module>springcloud01_eureka_server</module>
         <module>springcloud02_eureka_client</module>
-        <module>springcloud03_consule_client</module>
+        <module>springcloud03_consul_client</module>
+        <module>springcloud04_users</module>
+        <module>springcloud05_orders</module>
+        <module>springcloud06_customer</module>
+        <module>springcloud07_product</module>
     </modules>
 
     <!--继承springboot的父项目-->
