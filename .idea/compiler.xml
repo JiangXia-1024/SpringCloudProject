@@ -20,6 +20,9 @@
         <module name="springcloud05_orders" />
         <module name="springcloud06_customer" />
         <module name="springcloud07_product" />
+        <module name="springcloud08_hystrix" />
+        <module name="springcloud09_hystrixofopenfeign" />
+        <module name="springcloud10_hystrix_bashboard" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -37,6 +40,9 @@
       <module name="springcloud05_orders" target="1.8" />
       <module name="springcloud06_customer" target="1.8" />
       <module name="springcloud07_product" target="1.8" />
+      <module name="springcloud08_hystrix" target="1.8" />
+      <module name="springcloud09_hystrixofopenfeign" target="1.8" />
+      <module name="springcloud10_hystrix_bashboard" target="1.8" />
       <module name="springcloud_parent" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -56,6 +62,9 @@
       <module name="springcloud05_orders" options="-parameters" />
       <module name="springcloud06_customer" options="-parameters" />
       <module name="springcloud07_product" options="-parameters" />
+      <module name="springcloud08_hystrix" options="-parameters" />
+      <module name="springcloud09_hystrixofopenfeign" options="-parameters" />
+      <module name="springcloud10_hystrix_bashboard" options="-parameters" />
       <module name="springcloud_parent" options="-parameters" />
     </option>
   </component>

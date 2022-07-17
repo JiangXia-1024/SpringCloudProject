@@ -38,5 +38,6 @@ public interface ProductClient {
     @GetMapping("/test4")
     String test4(@RequestParam("names") String[] names);
 
-
+    @GetMapping("/product/{name}")
+    Product test5(@PathVariable("name") String name);
 }

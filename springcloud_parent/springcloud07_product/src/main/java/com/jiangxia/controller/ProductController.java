@@ -95,5 +95,13 @@ public class ProductController {
         return "test4接口正在被调用，端口是："+port;
     }
 
+    //定义一个接口接受name类型参数，返回一个基于name查询的对象
+    @GetMapping("/product/{name}")
+    public Product product(@PathVariable("name") String name){
+        LOGGER.info("name is {}",name);
+        return new Product(1,20.00,"李四");
+    }
+
+
 
 }

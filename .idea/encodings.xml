@@ -16,5 +16,8 @@
     <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud05_orders" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud06_customer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud07_product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_parent/springcloud10_hystrix_bashboard" charset="UTF-8" />
   </component>
 </project>

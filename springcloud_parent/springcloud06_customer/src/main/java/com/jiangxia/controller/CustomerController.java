@@ -82,4 +82,11 @@ public class CustomerController {
         return "customer3正在调用消费服务  "+product;
     }
 
+    @GetMapping("/customer6")
+    public Product customer6(){
+        LOGGER.info("消费服务正在调用");
+        Product product = productClient.test5("亚索");
+        return product;
+    }
+
 }

@@ -2,16 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe3d5d3b-8364-4280-aea2-ad4586c4acdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/java/com/jiangxia/entity/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud07_product/src/main/java/com/jiangxia/entity/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud07_product/src/main/java/com/jiangxia/entity/vos/CollectionVO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/springcloud08_hystrix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/src/main/java/com/jiangxia/HystrixApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/src/main/java/com/jiangxia/controller/DemoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/springcloud09_hystrixofopenfeign.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/src/main/java/com/jiangxia/HystrixOfOpenfeignApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/src/main/java/com/jiangxia/controller/TestHystrixController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/src/main/java/com/jiangxia/feignclients/HystrixClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/src/main/java/com/jiangxia/feignclients/HystrixClientFallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud10_hystrix_bashboard/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud10_hystrix_bashboard/springcloud10_hystrix_bashboard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud10_hystrix_bashboard/src/main/java/com/jiangxia/BashBoardApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_parent/springcloud10_hystrix_bashboard/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_parent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/springcloud06_customer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/springcloud06_customer.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/java/com/jiangxia/controller/CustomerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/java/com/jiangxia/controller/CustomerController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/java/com/jiangxia/feignclients/ProductClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/java/com/jiangxia/feignclients/ProductClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/target/classes/com/jiangxia/controller/CustomerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/target/classes/com/jiangxia/controller/CustomerController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/target/classes/com/jiangxia/feignclients/ProductClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/target/classes/com/jiangxia/feignclients/ProductClient.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springcloud_parent/springcloud07_product/src/main/java/com/jiangxia/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_parent/springcloud07_product/src/main/java/com/jiangxia/controller/ProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud_parent/springcloud07_product/target/classes/com/jiangxia/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_parent/springcloud07_product/target/classes/com/jiangxia/controller/ProductController.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/demo_01/target/" />
     <ignored path="$PROJECT_DIR$/demo02/target/" />
@@ -30,6 +59,9 @@
     <ignored path="$PROJECT_DIR$/springcloud_parent/springcloud03_consul_client/target/" />
     <ignored path="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/target/" />
     <ignored path="$PROJECT_DIR$/springcloud_parent/springcloud07_product/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/target/" />
+    <ignored path="$PROJECT_DIR$/springcloud_parent/springcloud10_hystrix_bashboard/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,109 +106,104 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/java/com/jiangxia/feignclients/ProductClient.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/src/main/java/com/jiangxia/controller/DemoController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="740">
-              <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+            <state relative-caret-position="197">
+              <caret line="31" column="24" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1086#1087#0" expanded="true" />
+                <element signature="e#1126#1127#0" expanded="true" />
+                <element signature="e#1286#1287#0" expanded="true" />
+                <element signature="e#1330#1331#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/java/com/jiangxia/entity/Product.java">
+        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="850">
+              <caret line="39" column="19" selection-start-line="13" selection-start-column="3" selection-end-line="39" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud07_product/src/main/java/com/jiangxia/ProductApplication.java">
+        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/src/main/java/com/jiangxia/HystrixApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud10_hystrix_bashboard/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <caret line="32" column="70" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud10_hystrix_bashboard/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud10_hystrix_bashboard/src/main/java/com/jiangxia/BashBoardApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/resources/application.properties">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/2.2.3.RELEASE/spring-cloud-netflix-hystrix-dashboard-2.2.3.RELEASE.jar!/templates/hystrix/monitor.ftlh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="32" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="32" />
+            <state relative-caret-position="110">
+              <caret line="110" column="86" selection-start-line="110" selection-start-column="86" selection-end-line="110" selection-end-column="86" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud07_product/src/main/resources/application.properties">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.2.5.RELEASE/spring-boot-2.2.5.RELEASE.jar!/org/springframework/boot/web/servlet/ServletRegistrationBean.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="31" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="31" />
+            <state relative-caret-position="132">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud07_product/src/main/java/com/jiangxia/controller/ProductController.java">
+        <entry file="file://$PROJECT_DIR$/springcloud_parent/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="93" column="31" selection-start-line="93" selection-start-column="31" selection-end-line="93" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud07_product/src/main/java/com/jiangxia/entity/vos/CollectionVO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-              <folding>
-                <element signature="e#258#259#0" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#340#341#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud07_product/src/main/java/com/jiangxia/entity/Product.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/java/com/jiangxia/controller/CustomerController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="775">
-              <caret line="75" column="43" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud07_product/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+            <state relative-caret-position="190">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -204,20 +231,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/demo_02/log.txt" />
-        <option value="$PROJECT_DIR$/demo_02/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/demo_02/src/main/java/com/jiangxia/demo02/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/demo_restful/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/demo_restful/pom.xml" />
-        <option value="$PROJECT_DIR$/demo_restful/src/main/java/com/jiangxia/demo_restful/controller/UserController.java" />
-        <option value="$PROJECT_DIR$/demo_restful/src/main/java/com/jiangxia/demo_restful/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/demo_restful/src/main/java/com/jiangxia/demo_restful/service/UserService.java" />
-        <option value="$PROJECT_DIR$/demo_restful/src/main/java/com/jiangxia/demo_restful/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/demo_parent/demo_commons/src/main/java/com/jiangxia/entity/User.java" />
-        <option value="$PROJECT_DIR$/demo_parent/demo_model/src/main/java/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/demo_parent/demo_model/src/main/java/com/jiangxia/dao/UserDao.java" />
-        <option value="$PROJECT_DIR$/demo_parent/demo_model/pom.xml" />
-        <option value="$PROJECT_DIR$/demo_parent/pom.xml" />
         <option value="$PROJECT_DIR$/demo_parent/demo_web/pom.xml" />
         <option value="$PROJECT_DIR$/demo_parent/demo_web/src/main/java/com/jiangxia/web/Demo02Application.java" />
         <option value="$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/pom.xml" />
@@ -250,11 +263,25 @@
         <option value="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/pom.xml" />
         <option value="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/java/com/jiangxia/CustomerApplication.java" />
         <option value="$PROJECT_DIR$/springcloud_parent/springcloud07_product/src/main/java/com/jiangxia/entity/Product.java" />
-        <option value="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/java/com/jiangxia/entity/Product.java" />
         <option value="$PROJECT_DIR$/springcloud_parent/springcloud07_product/src/main/java/com/jiangxia/entity/vos/CollectionVO.java" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/java/com/jiangxia/entity/Product.java" />
         <option value="$PROJECT_DIR$/springcloud_parent/springcloud07_product/src/main/java/com/jiangxia/controller/ProductController.java" />
         <option value="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/java/com/jiangxia/feignclients/ProductClient.java" />
         <option value="$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/java/com/jiangxia/controller/CustomerController.java" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/src/main/java/com/jiangxia/ProductApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/src/main/java/com/jiangxia/HystrixOfOpenfeignApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/src/main/java/com/jiangxia/feignclients/HystrixClientFallBack.java" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/src/main/java/com/jiangxia/feignclients/HystrixClient.java" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/src/main/java/com/jiangxia/controller/TestHystrixController.java" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud10_hystrix_bashboard/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud10_hystrix_bashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud10_hystrix_bashboard/src/main/java/com/jiangxia/BashBoardApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/src/main/java/com/jiangxia/HystrixApplication.java" />
+        <option value="$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/src/main/java/com/jiangxia/controller/DemoController.java" />
       </list>
     </option>
   </component>
@@ -277,18 +304,12 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springcloud06_customer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="springcloud08_hystrix" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springcloud06_customer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="springcloud08_hystrix" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="springcloud06_customer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-          <item name="org.springframework.cloud:spring-cloud-starter-openfeign:2.2.3.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
         </path>
       </expand>
       <select />
@@ -298,10 +319,11 @@
     <option name="jreName" value="1.8" />
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="925" />
+    <option name="y" value="35" />
+    <option name="width" value="1066" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -311,6 +333,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -321,118 +344,25 @@
             <path>
               <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud06_customer" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud08_hystrix" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud06_customer" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud08_hystrix" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud06_customer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud06_customer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud06_customer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud06_customer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiangxia" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud06_customer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiangxia" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud06_customer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiangxia" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud06_customer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiangxia" type="462c0819:PsiDirectoryNode" />
-              <item name="feignclients" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud06_customer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud06_customer" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud07_product" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud07_product" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud07_product" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud08_hystrix" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud07_product" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud08_hystrix" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -440,7 +370,7 @@
             <path>
               <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud07_product" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud08_hystrix" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -449,7 +379,7 @@
             <path>
               <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud07_product" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud08_hystrix" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -459,7 +389,7 @@
             <path>
               <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud07_product" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud08_hystrix" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -470,40 +400,73 @@
             <path>
               <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud07_product" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiangxia" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud07_product" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jiangxia" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-              <item name="vos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud07_product" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud08_hystrix" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud10_hystrix_bashboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud10_hystrix_bashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud10_hystrix_bashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud10_hystrix_bashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud10_hystrix_bashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud10_hystrix_bashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jiangxia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud10_hystrix_bashboard" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloudProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -516,7 +479,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1654518474716" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1658065224329" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -526,21 +489,22 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\workspace\java\SpringCloudProject\demo_restful\src\main\resources\com\jiangxia" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\workspace\java\SpringCloudProject\springcloud_parent\springcloud10_hystrix_bashboard\src\main\resources" />
+      <recent name="F:\workspace\java\SpringCloudProject\springcloud_parent\springcloud09_hystrixofopenfeign\src\main\resources" />
+      <recent name="F:\workspace\java\SpringCloudProject\springcloud_parent\springcloud08_hystrix\src\main\resources" />
+      <recent name="F:\workspace\java\SpringCloudProject\springcloud_parent\springcloud07_product\src\main\resources" />
+      <recent name="F:\workspace\java\SpringCloudProject\springcloud_parent\springcloud06_customer\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jiangxia" />
+      <recent name="" />
       <recent name="com.jiangxia.entity" />
       <recent name="com.jiangxia.web" />
       <recent name="com.jiangxia.dao" />
-      <recent name="dao" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\workspace\java\SpringCloudProject\springcloud_parent\springcloud07_product\src\main\resources" />
-      <recent name="F:\workspace\java\SpringCloudProject\springcloud_parent\springcloud06_customer\src\main\resources" />
-      <recent name="F:\workspace\java\SpringCloudProject\springcloud_parent\springcloud05_orders\src\main\resources" />
-      <recent name="F:\workspace\java\SpringCloudProject\springcloud_parent\springcloud03_consule_client\src\main\resources" />
-      <recent name="F:\workspace\java\SpringCloudProject\springcloud_parent\springcloud02_eureka_client\src\main\resources" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\workspace\java\SpringCloudProject\demo_restful\src\main\resources\com\jiangxia" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -555,16 +519,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.CustomerApplication">
-    <configuration name="ConsulClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud03_consul_client" />
+  <component name="RunManager" selected="Spring Boot.HystrixApplication">
+    <configuration name="BashBoardApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud10_hystrix_bashboard" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.jiangxia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jiangxia.ConsulClientApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jiangxia.BashBoardApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -605,16 +569,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud05_orders" />
+    <configuration name="HystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud08_hystrix" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.jiangxia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jiangxia.OrderApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jiangxia.HystrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixOfOpenfeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud09_hystrixofopenfeign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jiangxia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jiangxia.HystrixOfOpenfeignApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -662,38 +638,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="springcloud04_users" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.jiangxia.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jiangxia.UserApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Spring Boot.Demo02Application" />
       <item itemvalue="Spring Boot.DemoRestfulApplication" />
       <item itemvalue="Spring Boot.Demo1Application" />
       <item itemvalue="Spring Boot.OrderApplication01" />
       <item itemvalue="Spring Boot.ProductApplication01" />
-      <item itemvalue="Spring Boot.ConsulClientApplication" />
-      <item itemvalue="Spring Boot.UserApplication" />
-      <item itemvalue="Spring Boot.OrderApplication" />
       <item itemvalue="Spring Boot.CustomerApplication" />
       <item itemvalue="Spring Boot.ProductApplication" />
+      <item itemvalue="Spring Boot.HystrixApplication" />
+      <item itemvalue="Spring Boot.HystrixOfOpenfeignApplication" />
+      <item itemvalue="Spring Boot.BashBoardApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.HystrixApplication" />
+        <item itemvalue="Spring Boot.BashBoardApplication" />
+        <item itemvalue="Spring Boot.HystrixOfOpenfeignApplication" />
         <item itemvalue="Spring Boot.CustomerApplication" />
         <item itemvalue="Spring Boot.ProductApplication" />
-        <item itemvalue="Spring Boot.UserApplication" />
-        <item itemvalue="Spring Boot.OrderApplication" />
-        <item itemvalue="Spring Boot.ConsulClientApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -736,7 +699,21 @@
       <workItem from="1654841267754" duration="2052000" />
       <workItem from="1655005278917" duration="595000" />
       <workItem from="1655210060610" duration="1206000" />
-      <workItem from="1655298612669" duration="2236000" />
+      <workItem from="1655298612669" duration="2565000" />
+      <workItem from="1655385668325" duration="1484000" />
+      <workItem from="1655471023771" duration="1624000" />
+      <workItem from="1655540646513" duration="960000" />
+      <workItem from="1655814253304" duration="692000" />
+      <workItem from="1656764097618" duration="593000" />
+      <workItem from="1656834354039" duration="4627000" />
+      <workItem from="1656940950874" duration="1901000" />
+      <workItem from="1657116338827" duration="843000" />
+      <workItem from="1657196215513" duration="2594000" />
+      <workItem from="1657348874813" duration="7170000" />
+      <workItem from="1657431137439" duration="596000" />
+      <workItem from="1657542465685" duration="1236000" />
+      <workItem from="1657938249349" duration="594000" />
+      <workItem from="1658035147002" duration="7301000" />
     </task>
     <servers />
   </component>
@@ -764,7 +741,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116372000" />
+    <option name="totallyTimeSpent" value="148916000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -776,10 +753,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.64053535" visible="true" weight="0.34682712" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.64053535" visible="true" weight="0.25479743" />
       <window_info id="Structure" order="1" sideWeight="0.35946462" side_tool="true" weight="0.22867803" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -789,7 +766,7 @@
       <window_info id="Web" order="7" sideWeight="0.35782748" side_tool="true" weight="0.21002132" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3264642" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3383948" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30260304" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4164859" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -805,7 +782,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.43737575" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.096481875" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Mongo Explorer" order="6" />
@@ -819,122 +796,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo_parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="38" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo_parent/demo_commons/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo_parent/demo_model/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="64" selection-start-line="27" selection-start-column="64" selection-end-line="27" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo_parent/demo_web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo_parent/demo_web/src/main/java/com/jiangxia/web/DemoWebApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/springcloud01_eureka_server.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo_parent/demo_parent.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="20" selection-start-line="13" selection-start-column="3" selection-end-line="25" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-server/2.2.3.RELEASE/spring-cloud-netflix-eureka-server-2.2.3.RELEASE.jar!/org/springframework/cloud/netflix/eureka/server/EurekaServerConfigBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud01_eureka_server/src/main/java/com/jiangxia/EurekaServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud03_consul_client/springcloud03_consul_client.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud03_consul_client/src/main/java/com/jiangxia/ConsulClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.2.3.RELEASE/spring-cloud-netflix-eureka-client-2.2.3.RELEASE.jar!/org/springframework/cloud/netflix/eureka/EurekaInstanceConfigBean.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="38" column="30" selection-start-line="36" selection-start-column="16" selection-end-line="38" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud02_eureka_client/src/main/java/com/jiangxia/SpringCloudEurekaClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/demo_parent/demo_commons/src/main/java/com/jiangxia/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -1086,13 +947,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud04_users/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
@@ -1107,13 +961,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud06_customer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/java/com/jiangxia/CustomerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1124,13 +971,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/java/com/jiangxia/entity/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud07_product/src/main/java/com/jiangxia/ProductApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -1138,6 +978,27 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/swagger/swagger-annotations/1.5.13/swagger-annotations-1.5.13.jar!/io/swagger/annotations/ApiModel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="13" selection-start-line="13" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/java/com/jiangxia/entity/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud06_customer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" column="21" selection-start-line="34" selection-start-column="7" selection-end-line="38" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1155,25 +1016,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud07_product/src/main/java/com/jiangxia/entity/Product.java">
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud07_product/src/main/java/com/jiangxia/controller/ProductController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud07_product/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        <state relative-caret-position="2068">
+          <caret line="99" column="18" selection-start-line="99" selection-start-column="11" selection-end-line="99" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud07_product/src/main/java/com/jiangxia/entity/vos/CollectionVO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        <state relative-caret-position="308">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
           <folding>
+            <element signature="e#230#231#0" expanded="true" />
             <element signature="e#258#259#0" expanded="true" />
             <element signature="e#306#307#0" expanded="true" />
             <element signature="e#340#341#0" expanded="true" />
@@ -1181,20 +1039,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud07_product/src/main/java/com/jiangxia/controller/ProductController.java">
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud07_product/src/main/java/com/jiangxia/entity/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
-          <caret line="93" column="31" selection-start-line="93" selection-start-column="31" selection-end-line="93" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="34" column="19" selection-start-line="13" selection-start-column="3" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud07_product/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="19" selection-start-line="13" selection-start-column="3" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18.jar!/com/netflix/hystrix/contrib/javanica/annotation/HystrixCommand.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/java/com/jiangxia/feignclients/ProductClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        <state relative-caret-position="852">
+          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1203,10 +1079,136 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud06_customer/src/main/java/com/jiangxia/controller/CustomerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="775">
-          <caret line="75" column="43" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
+        <state relative-caret-position="1342">
+          <caret line="67" column="17" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/src/main/java/com/jiangxia/feignclients/HystrixClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/src/main/java/com/jiangxia/feignclients/HystrixClientFallBack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/src/main/java/com/jiangxia/HystrixOfOpenfeignApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/src/main/java/com/jiangxia/controller/TestHystrixController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="39" column="19" selection-start-line="13" selection-start-column="3" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud10_hystrix_bashboard/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="32" column="70" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.2.5.RELEASE/spring-boot-2.2.5.RELEASE.jar!/org/springframework/boot/web/servlet/ServletRegistrationBean.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-netflix-hystrix-dashboard/2.2.3.RELEASE/spring-cloud-netflix-hystrix-dashboard-2.2.3.RELEASE.jar!/templates/hystrix/monitor.ftlh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="110" column="86" selection-start-line="110" selection-start-column="86" selection-end-line="110" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud10_hystrix_bashboard/src/main/java/com/jiangxia/BashBoardApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud10_hystrix_bashboard/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/src/main/java/com/jiangxia/HystrixApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/src/main/java/com/jiangxia/controller/DemoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1086#1087#0" expanded="true" />
+            <element signature="e#1126#1127#0" expanded="true" />
+            <element signature="e#1286#1287#0" expanded="true" />
+            <element signature="e#1330#1331#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1263,7 +1265,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>springcloud04_users</last-edited>
+          <last-edited>springcloud10_hystrix_bashboard</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
