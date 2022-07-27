@@ -19,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/springcloud08_hystrix.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud08_hystrix/springcloud08_hystrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/springcloud09_hystrixofopenfeign.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud09_hystrixofopenfeign/springcloud09_hystrixofopenfeign.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud10_hystrix_bashboard/springcloud10_hystrix_bashboard.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud10_hystrix_bashboard/springcloud10_hystrix_bashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud11_getewaydemo/springcloud11_getewaydemo.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud11_getewaydemo/springcloud11_getewaydemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud_parent/springcloud_parent.iml" filepath="$PROJECT_DIR$/springcloud_parent/springcloud_parent.iml" />
     </modules>
   </component>

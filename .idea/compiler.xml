@@ -23,6 +23,7 @@
         <module name="springcloud08_hystrix" />
         <module name="springcloud09_hystrixofopenfeign" />
         <module name="springcloud10_hystrix_bashboard" />
+        <module name="springcloud11_getewaydemo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -43,6 +44,7 @@
       <module name="springcloud08_hystrix" target="1.8" />
       <module name="springcloud09_hystrixofopenfeign" target="1.8" />
       <module name="springcloud10_hystrix_bashboard" target="1.8" />
+      <module name="springcloud11_getewaydemo" target="1.8" />
       <module name="springcloud_parent" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -65,6 +67,7 @@
       <module name="springcloud08_hystrix" options="-parameters" />
       <module name="springcloud09_hystrixofopenfeign" options="-parameters" />
       <module name="springcloud10_hystrix_bashboard" options="-parameters" />
+      <module name="springcloud11_getewaydemo" options="-parameters" />
       <module name="springcloud_parent" options="-parameters" />
     </option>
   </component>

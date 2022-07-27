@@ -1,0 +1,25 @@
+server:
+  port: 9010
+spring:
+  application:
+    name: gateway
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+    gateway:
+      routes:
+        - id: product_router #路由对象唯一标识
+#          uri: http://localhost:8087 #用来类别服务地址 http://localhost:8087/product
+          uri: lb://product
+          predicates: #断言 用来配置路由规则
+            - Path=/product
+
+        - id: customer_router #路由对象唯一标识
+#          uri: http://localhost:8085 #用来类别服务地址 http://localhost:8087/customer
+          uri: lb://customer
+          predicates: #断言 用来配置路由规则
+#            - Path=/customer
+             - Path=/customer/** # 访问该路径下所有的请求
+          filters:
+            - Log=true

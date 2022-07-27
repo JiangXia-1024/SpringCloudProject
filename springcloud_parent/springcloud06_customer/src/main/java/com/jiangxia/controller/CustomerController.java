@@ -6,13 +6,17 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import javax.servlet.http.HttpServletRequest;
 
 /**
  * @author jiangxia
  * @date 2022年06月06日 19:50
  */
 @RestController
+@RequestMapping("/customer")
 public class CustomerController {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(CustomerController.class);
@@ -83,8 +87,11 @@ public class CustomerController {
     }
 
     @GetMapping("/customer6")
-    public Product customer6(){
+    public Product customer6(HttpServletRequest request,String name){
         LOGGER.info("消费服务正在调用");
+        String header = request.getHeader("name");
+        System.out.println("请求头信息"+header);
+        System.out.println("获取对应的请求参数：name"+name);
         Product product = productClient.test5("亚索");
         return product;
     }
